@@ -6,7 +6,7 @@ I build AI-powered tools that encode expert methodology into executable workflow
 
 #### What Alpha Insights does
 
-- **19 analysis frameworks** (Porter's Five Forces, BCG Matrix, PESTEL, Business Model Canvas, etc.) + 1 original (3A-8 Steps Strategy)
+- **19 analysis frameworks** 
 - **Harness engineering** -- state machine, 6-stage gate validators, context budget management
 - **Multi-source triangulation** with A/B/C/D confidence grading
 - **10 business scenarios**: industry research, competitive analysis, market entry, due diligence, and more
