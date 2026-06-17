@@ -1,23 +1,31 @@
 ### Hi, I'm Eric
 
-I build AI-powered tools that encode expert methodology into executable workflows.
+I build AI systems that turn expert judgment into reliable workflows.
 
-**Currently building**: [Alpha Insights](https://github.com/Ericyoung-183/alpha-insights) -- a professional business analysis skill for Claude Code that turns consulting frameworks (McKinsey, BCG, Bain-style) into structured, repeatable AI workflows.
+My work sits at the intersection of business analysis, agent governance, and harness engineering: state machines, hooks, validators, evidence ledgers, and quality gates that make AI work more reliable, reviewable, and useful in real decisions.
 
-#### What Alpha Insights does
+#### Selected projects
 
-- **19 analysis frameworks** 
-- **Harness engineering** -- state machine, 6-stage gate validators, context budget management
-- **Multi-source triangulation** with A/B/C/D confidence grading
-- **10 business scenarios**: industry research, competitive analysis, market entry, due diligence, and more
-- **Production output**: structured HTML reports with ECharts visualizations
+- **[Alpha Insights](https://github.com/Ericyoung-183/alpha-insights)** -- an open-source business research Skill for Claude Code and Codex Desktop. It turns analyst methodology into a 7-stage workflow with 19 frameworks, source confidence grading, quality gates, and polished HTML reports. [Demo report](https://ericyoung-183.github.io/alpha-insights/assets/demo-report.html)
+- **Alpha Insights-Data** -- a strategic analysis system for internal data, extending the Alpha Insights harness into evidence tracking, governed insight generation, and enterprise decision support.
+- **[Anchor](https://github.com/Ericyoung-183/Anchor)** -- a Codex skill for agenda-stack tracking, nested TODO control, and drift prevention in long-running AI work.
+- **[Overwatch](https://github.com/Ericyoung-183/Overwatch)** -- a real-time second-opinion layer for AI agents: session-level oversight, independent review, and architecture feedback while work is happening.
+- **[Forge-PPT](https://github.com/Ericyoung-183/Forge-PPT)** -- a presentation generation system for deterministic layouts, image-backed visual assets, and executive-grade decks.
+- **Convex** -- a structured financial research system for market scanning, signal review, and disciplined opportunity analysis.
+- **[AI Data Insights Series](https://github.com/Ericyoung-183/ai-data-insights-series)** -- public writing on enterprise AI analytics, governed insight generation, and the shift from prompt-only work to engineered workflows.
 
-> See a [demo report](https://ericyoung-183.github.io/alpha-insights/assets/demo-report.html) -- competitive landscape analysis of China's EV charging industry.
+#### Operating principles
 
-#### Philosophy
+- Harness over prompts.
+- Evidence over vibes.
+- Workflow memory over chat history.
+- Quality gates over "looks good."
+- Domain expertise should be encoded as systems.
 
-The gap between "AI can do analysis" and "AI delivers analyst-grade output" is methodology. I believe in encoding domain expertise into code -- not just prompts, but execution environments that hold AI accountable.
+#### Current focus
+
+Building reusable AI Skills and agent systems that help analysts, operators, and builders move from one-off chat output to repeatable expert workflows.
 
 ---
 
-<sub>74 files | 21K+ lines | 664 rounds of human-AI collaboration</sub>
+<sub>Creator of Alpha Insights, Alpha Insights-Data, Anchor, Overwatch, Forge-PPT, and Convex.</sub>
