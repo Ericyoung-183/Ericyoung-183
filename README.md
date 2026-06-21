@@ -11,7 +11,7 @@ My work sits at the intersection of business analysis, agent governance, and har
 - **[Anchor](https://github.com/Ericyoung-183/Anchor)** -- a Codex skill for agenda-stack tracking, nested TODO control, and drift prevention in long-running AI work.
 - **[Overwatch](https://github.com/Ericyoung-183/Overwatch)** -- a real-time second-opinion layer for AI agents: session-level oversight, independent review, and architecture feedback while work is happening.
 - **[Forge-PPT](https://github.com/Ericyoung-183/Forge-PPT)** -- a presentation generation system for deterministic layouts, image-backed visual assets, and executive-grade decks.
-- **Convex** -- a structured financial research system for market scanning, signal review, and disciplined opportunity analysis.
+- **Convex** -- a structured futures and options research system for market scanning, signal review, and disciplined opportunity analysis.
 - **[AI Data Insights Series](https://github.com/Ericyoung-183/ai-data-insights-series)** -- public writing on enterprise AI analytics, governed insight generation, and the shift from prompt-only work to engineered workflows.
 
 #### Operating principles
